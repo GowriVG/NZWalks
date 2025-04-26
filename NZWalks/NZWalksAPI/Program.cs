@@ -28,5 +28,4 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-
-//git
+app.Run();
